@@ -5,10 +5,10 @@
 
 # 💬 about me
 
-<h1 align="left">Education::</h1>
-- Lviv Polytechnic National University in Ukraine / Master of Information Connection Networks
+@ Education
+* Lviv Polytechnic National University in Ukraine / Master of Information Connection Networks
 
-@ Certificates:
+@ Certificates
 * Linux Essentials LPIC (11.2023)
 * AWS Cloud Practitioner Certificate (04.2023)
 * CCENT & CCNA Routing & Switching / CCNA Security (08/2019)
@@ -33,7 +33,6 @@
 
 - DevOps und Cloud Computing Engineer
 
-#
 <a href="https://github.com/almohanadilewi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almohanadilewi&layout=compact&langs_count=10&card_width=400" />
 </a>
