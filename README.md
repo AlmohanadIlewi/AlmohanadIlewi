@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlmohanadIlewi
+- 👋 Hi there, I’m @AlmohanadIlewi
 
 - Weiterbildung zum DevOps und Cloud Computing Engineer:
 - | Linux🐧 | AWS Cloud☁️ | JavaScript | Docker🐳 | Terraform | Ansible | Python
