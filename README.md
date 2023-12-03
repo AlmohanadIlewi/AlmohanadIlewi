@@ -30,7 +30,7 @@
 
 ## 📫 How to reach me
 
-- LinkedIn: linkedin.com/in/mohanad-ilewi
+- LinkedIn: https://www.linkedin.com/in/mohanad-ilewi
 - xing: https://www.xing.com/profile/AlMohanad_Ilewi
 - Email: mohanad.ilewi.83@gmail.com
 
