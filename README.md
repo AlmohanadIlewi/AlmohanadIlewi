@@ -1,5 +1,5 @@
 # 👋 Hi there, I’m @AlmohanadIlewi
-
+![Mohanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=almohanadilewi&show_icons=true&theme=radical)
 ## Weiterbildung zum DevOps und Cloud Computing Engineer:
 
 - **Linux** 🐧
