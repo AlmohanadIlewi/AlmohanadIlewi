@@ -1,16 +1,20 @@
 # 👋 Hi there, I’m @AlmohanadIlewi
+  <a href="https://github.com/almohanadilewi/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=almohanadilewi&show_icons=true&theme=radical" />
+</a>
 
 # 💬 about me
 
- Education:
+ @ Education:
 
 - Lviv Polytechnic National University in Ukraine / Master of Information Connection Networks
 
-Certificates:
-
-* AWS Cloud Practitioner Certificate (04.2023)
+@ Certificates:
 * Linux Essentials LPIC (11.2023)
-* CCNA and CCNA Security
+* AWS Cloud Practitioner Certificate (04.2023)
+* CCENT & CCNA Routing & Switching / CCNA Security (08/2019)
+* Coax Installation / Dibkom (08/2017) 
+* Telecommunications system technician (08/2017) 
 
 ## Junior DevOps und Cloud Computing Engineer:
 
@@ -30,10 +34,7 @@ Certificates:
 
 - DevOps und Cloud Computing Engineer
 
-##
-  <a href="https://github.com/almohanadilewi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=almohanadilewi&show_icons=true&theme=radical" />
-</a>
+#
 <a href="https://github.com/almohanadilewi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almohanadilewi&layout=compact&langs_count=10&card_width=400" />
 </a>
