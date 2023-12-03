@@ -5,8 +5,7 @@
 
 # 💬 about me
 
- @ Education:
-
+<h1 align="left">Education::</h1>
 - Lviv Polytechnic National University in Ukraine / Master of Information Connection Networks
 
 @ Certificates:
