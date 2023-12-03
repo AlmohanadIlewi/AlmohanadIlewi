@@ -1,7 +1,13 @@
 # 👋 Hi there, I’m @AlmohanadIlewi
-![Mohanad's GitHub stats](https://github-readme-stats.vercel.app/api?username=almohanadilewi&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almohanadilewi&layout=pie)](https://github.com/almohanadilewi/github-readme-stats)
+<a href="https://github.com/almohanadilewi/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=almohanadilewi&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/almohanadilewi/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almohanadilewi&layout=donut&langs_count=10&card_width=300" />
+</a>
+
+
 ## Weiterbildung zum DevOps und Cloud Computing Engineer:
 
 - **Linux** 🐧
