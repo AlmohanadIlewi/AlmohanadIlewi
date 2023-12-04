@@ -1,10 +1,14 @@
 # Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I’m @Almohanad Ilewi
 
+
 ## ✨&nbsp; About Me 
-* Confident IT enthusiast with a passion for Cloud Computing and DevOps. Currently, I am actively involved in a challenging full-time training program to become a Junior DevOps Engineer at Techstarter GmbH.
-  My extensive skill set, coupled with a solid understanding of cloud technologies, especially AWS, empowers me to craft effective solutions on cloud platforms.
-  With great enthusiasm and motivation, I am aiming for a full-time position in the DevOps/Cloud Computing field starting from February 2024.
-  
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="175px"/>
+  <p>
+    Confident IT enthusiast with a passion for Cloud Computing and DevOps. Currently, I am actively involved in a challenging full-time training program to become a Junior DevOps Engineer 
+    at Techstarter GmbH. My extensive skill set, coupled with a solid understanding of cloud technologies, especially AWS, empowers me to craft effective solutions on cloud platforms.
+    With great enthusiasm and motivation, I am aiming for a full-time position in the DevOps/Cloud Computing field starting from February 2024.
+  </p> 
+
 ### Education
 * Lviv Polytechnic National University in Ukraine / Master of Information Connection Networks
 
@@ -15,8 +19,6 @@
  * <img title="AWS Cloud Practitioner" alt="AWS Cloud Practitioner" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
 
 </p>
-
-
  
 * CCENT & CCNA Routing & Switching / CCNA Security (08/2019)
 * Coax Installation / Dibkom (08/2017) 
