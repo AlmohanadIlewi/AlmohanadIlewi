@@ -16,7 +16,7 @@
 ### Certificates
 * <img title="Linux Essentials LPIC" alt="Linux Essentials LPIC" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/> Linux Essentials LPIC
 * <img title="AWS Cloud Practitioner" alt="AWS Cloud Practitioner" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/> AWS Cloud Practitioner
-* CCENT & CCNA Routing & Switching / CCNA Security (08/2019)
+* <img title="Cisco Certified Network Associate (CCNA)" alt="Cisco Certified Network Associate (CCNA)" src="URL_TO_YOUR_CCNA_IMAGE" width="40" style="vertical-align:down; margin:4px"/> Cisco Certified Network Associate (CCNA)
 * Coax Installation / Dibkom (08/2017) 
 * Telecommunications system technician (08/2017) 
 
