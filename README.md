@@ -56,4 +56,5 @@
 ## 📫 How to reach me
 * [LinkedIn](https://www.linkedin.com/in/mohanad-ilewi)
 * [Xing](https://www.xing.com/profile/AlMohanad_Ilewi)
-* Email: mohanad.ilewi.83@gmail.com
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanad.ilewi.83@gmail.com)
+
