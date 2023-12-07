@@ -2,18 +2,18 @@
 
 
 ## ✨&nbsp; About Me 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="175px"/>
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
   <p>
     Currently, I am actively involved in a challenging full-time training program to become a Junior DevOps Engineer 
     at Techstarter GmbH. My extensive skill set, coupled with a solid understanding of cloud technologies, especially AWS, empowers me to craft effective solutions on cloud platforms.
     With great enthusiasm and motivation, I am aiming for a full-time position in the DevOps/Cloud Computing field starting from February 2024.
   </p> 
 
-### Education
+## Education
 * **Lviv Polytechnic National University in Ukraine**
   * Master of Information Connection Networks
 
-### Certificates
+## Certificates
 * <img title="Linux Essentials LPIC" alt="Linux Essentials LPIC" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/> Linux Essentials LPIC
 * <img title="AWS Cloud Practitioner" alt="AWS Cloud Practitioner" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/> AWS Cloud Practitioner
 * ![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/CCNA-Cisco%20Certified%20Network%20Associate-blue?style=for-the-badge&logo=cisco)
