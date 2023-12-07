@@ -1,8 +1,8 @@
-# Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I’m @Almohanad Ilewi
+# Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I’m @Mohanad Ilewi
 
 
 ## ✨&nbsp; About Me 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="250px"/>
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" length="200px" width="250px"/>
   <p>
     Currently, I am actively involved in a challenging full-time training program to become a Junior DevOps Engineer 
     at Techstarter GmbH. My extensive skill set, coupled with a solid understanding of cloud technologies, especially AWS, empowers me to craft effective solutions on cloud platforms.
